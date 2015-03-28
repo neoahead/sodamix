@@ -60,7 +60,7 @@ a:hover, a:focus {
 	font-size: 1em;
 	line-height: 1.3;
 	padding: 1.5em 0 0.25em;
-	text-transform: uppercase;
+//	text-transform: uppercase;
 	letter-spacing: 1px;
 	float: left;
 }
@@ -183,7 +183,7 @@ a:hover, a:focus {
 }
 
 .codrops-icon-prev:before {
-	content: "\e004";
+	content: "\e002";
 }
 
 @media screen and (max-width: 650px) {
