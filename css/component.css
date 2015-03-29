@@ -350,6 +350,21 @@ button.content-switch::before {
 	padding: 2.25em 10px 1em;
 }
 
+#whyus {
+	position: relative;
+	background: #34495e;
+	font-size: 1.4em;
+	line-height: 4.4em;
+	width: 4.4em;
+	height: 4.4em;
+	clear: both;
+	margin: 1em auto 2em;
+	color: #fff;
+	border-radius: 100%/100%;
+	text-align: center;
+	margin-top: 50px;
+}
+
 .no-js .pages .content h2 {
 	padding-top: 1em;
 }
